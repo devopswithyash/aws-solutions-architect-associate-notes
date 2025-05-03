@@ -11,31 +11,37 @@ Welcome to the beginning of our **AWS Solutions Architect Associate** journey! B
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
 ### Traditional IT Infrastructure (The "Old Way")
-- Buy physical servers and equipment upfront  
-- Install them in your own data center  
-- Hire IT staff to maintain them  
-- Predict capacity needs years in advance  
-- Pay for peak capacity even during low usage  
-- Replace hardware every 3–5 years
+| Aspect                 | Traditional IT Infrastructure                 |
+|------------------------|-----------------------------------------------|
+| Hardware               | Physical servers and equipment                |
+| Location               | On-premise data center                       |
+| Management Responsibility | IT staff for maintenance, security, and upgrades |
+| Capacity Planning      | Predict and purchase capacity years in advance |
+| Costs                  | High upfront costs for hardware               |
+| Maintenance            | Regular hardware and software updates         |
 
 ### Cloud Computing (The "New Way")
-- Rent only what you need, when you need it  
-- Access resources over the internet  
-- Scale up or down instantly  
-- Pay only for what you use  
-- Let someone else worry about hardware maintenance  
-- Access the latest technology automatically
+| Aspect                 | Cloud Computing                              |
+|------------------------|-----------------------------------------------|
+| Hardware               | Virtualized resources on-demand              |
+| Location               | Accessed remotely through the internet       |
+| Management Responsibility | Managed by cloud providers (e.g., AWS, Azure) |
+| Capacity Planning      | Scale up/down dynamically based on demand     |
+| Costs                  | Pay-as-you-go model, OPEX over CAPEX          |
+| Maintenance            | Handled by cloud providers                   |
 
 ---
 
 ## 💡 Essential Characteristics of Cloud Computing
-According to [NIST](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf):
+Cloud computing is defined by the following key characteristics:
 
-- **On-demand self-service**: Provision computing capabilities as needed without human interaction with the service provider.
-- **Broad network access**: Capabilities available over the network and accessed through standard mechanisms.
-- **Resource pooling**: Provider's resources are pooled to serve multiple consumers using a multi-tenant model.
-- **Rapid elasticity**: Capabilities can be elastically provisioned and released to scale rapidly with demand.
-- **Measured service**: Cloud systems automatically control and optimize resource use by leveraging a metering capability.
+| Characteristic        | Description |
+|-----------------------|-------------|
+| **On-demand self-service** | Provision computing capabilities as needed, without human interaction. |
+| **Broad network access**   | Access via network through standard mechanisms like the internet. |
+| **Resource pooling**       | Resources pooled to serve multiple customers with a multi-tenant model. |
+| **Rapid elasticity**       | Resources scale up or down quickly according to demand. |
+| **Measured service**       | Resources are metered and billed based on usage. |
 
 ---
 
@@ -92,49 +98,46 @@ Think of these models as different levels of management responsibility between y
 ## 🌐 Cloud Deployment Models
 
 ### Public Cloud
-- Resources owned by third-party provider
-- Shared by many organizations
-- **Examples**: AWS, Azure, GCP
-- **Pros**: Cost-effective, scalable
-- **Cons**: Less control
+| Feature           | Description |
+|-------------------|-------------|
+| **Provider**      | Third-party cloud provider (e.g., AWS, Azure, GCP) |
+| **Deployment**    | Resources shared among multiple organizations |
+| **Pros**          | Cost-effective, scalable, quick provisioning |
+| **Cons**          | Less control, shared resources |
 
 ### Private Cloud
-- Dedicated to one organization
-- On-premises or hosted
-- **Examples**: OpenStack, VMware
-- **Pros**: High security, control
-- **Cons**: High cost, limited scale
+| Feature           | Description |
+|-------------------|-------------|
+| **Provider**      | Managed by a single organization |
+| **Deployment**    | Dedicated infrastructure (on-prem or hosted) |
+| **Pros**          | High control, greater security |
+| **Cons**          | Higher cost, limited scalability |
 
 ### Hybrid Cloud
-- Combination of public and private
-- **Examples**: AWS Outposts, Azure Arc
-- **Pros**: Flexible, best of both
-- **Cons**: Complex management
+| Feature           | Description |
+|-------------------|-------------|
+| **Provider**      | Mix of public and private clouds |
+| **Deployment**    | Flexible, can switch between public and private |
+| **Pros**          | Flexibility, best of both worlds |
+| **Cons**          | Complex management |
 
 ### Multi-Cloud
-- Multiple cloud vendors used together
-- **Examples**: AWS + GCP
-- **Pros**: No vendor lock-in
-- **Cons**: Complexity, integration
+| Feature           | Description |
+|-------------------|-------------|
+| **Provider**      | Uses services from multiple cloud vendors (AWS + GCP) |
+| **Deployment**    | No single vendor lock-in |
+| **Pros**          | Reduces risk, avoids vendor lock-in |
+| **Cons**          | Complex integration, management challenges |
 
 ---
 
 ## 🚀 Benefits of Cloud Computing
 
-### Economic
-- Pay-as-you-go
-- OPEX over CAPEX
-- Scale with demand
-
-### Technical
-- Global reach
-- Fast provisioning
-- Innovation friendly
-
-### Operational
-- Automation
-- High availability
-- Built-in security
+| Benefit Type      | Description |
+|-------------------|-------------|
+| **Economic**      | Pay-as-you-go model, cost efficiency, scale with demand |
+| **Technical**     | Global reach, rapid provisioning, access to advanced tools |
+| **Operational**   | Automation, high availability, built-in security features |
 
 ---
 
@@ -143,14 +146,16 @@ Think of these models as different levels of management responsibility between y
 ### The Origin Story
 In the early 2000s, Amazon's retail infrastructure inspired the birth of AWS:
 
-- 2002: Internal AWS tools
-- 2003: Vision for external services
-- 2004: SQS launched
-- 2006: Public launch with S3, EC2
-- 2010: Amazon.com moved to AWS
-- 2012: First re:Invent
-- 2018: Graviton chips announced
-- 2023: $80B+ annual revenue
+| Year    | Milestone                           |
+|---------|-------------------------------------|
+| 2002    | Internal AWS tools created         |
+| 2003    | Vision for external services formed|
+| 2004    | SQS (Simple Queue Service) launched |
+| 2006    | Public launch with S3 and EC2      |
+| 2010    | Amazon.com moved to AWS            |
+| 2012    | First re:Invent conference         |
+| 2018    | Graviton processors announced      |
+| 2023    | $80B+ annual revenue               |
 
 ### AWS Market Position
 - Powers millions of businesses
@@ -162,7 +167,7 @@ In the early 2000s, Amazon's retail infrastructure inspired the birth of AWS:
 ## 🎮 Fun Cloud Facts
 - "Cloud computing" term dates back to 1990s.
 - SQS was AWS's first public service.
-- AWS stores data that could reach the moon in paper.
+- AWS stores enough data to reach the moon in paper!
 - Jeff Barr has written over 2,000 AWS blog posts.
 
 ---
