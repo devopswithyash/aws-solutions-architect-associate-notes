@@ -106,7 +106,16 @@ Think of these models as different levels of management responsibility between y
 | **Cons**          | Less control, shared resources             | Higher cost, limited scalability               | Complex management                             | Complex integration, management challenges      |
 
 ---
-
+### 🛡️ Cloud Security Comparison
+| **Security Aspect**   | **Traditional IT**                                    | **Cloud Computing**                                                                       |
+| --------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Data Control**      | Full control over data on-premises                    | Provider-controlled but with encryption and access controls                               |
+| **Infrastructure**    | Security depends on in-house physical security        | Shared responsibility model – provider manages physical, you manage data and application  |
+| **Compliance**        | Must manage own compliance for regulations            | Cloud providers often provide compliance certifications and tools                         |
+| **Access Control**    | Typically managed by in-house IT systems              | Managed via cloud IAM (Identity and Access Management)                                    |
+| **Disaster Recovery** | Requires manual setup of backups and recovery systems | Automated backups, disaster recovery services provided by cloud                           |
+| **Threat Detection**  | In-house monitoring and intrusion detection systems   | Cloud providers offer integrated security features like DDoS protection, encryption, etc. |
+---
 🏘️ Real-World Analogies & Use Cases
 Understanding cloud deployment models is easier with real-world parallels:
 
