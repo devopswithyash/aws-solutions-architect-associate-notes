@@ -43,10 +43,13 @@ Cloud computing is defined by the following key characteristics:
 
 Think of these models as different levels of management responsibility between you and the cloud provider. I like to use the **pizza analogy**:
 
+![image](https://github.com/user-attachments/assets/7f0c555e-b6f4-43a4-b62f-6fb8d53549f1)
+
+
 ### 🍕 The Pizza Analogy
 | Model             | What You Manage                                 | Example                         |
 |------------------|--------------------------------------------------|---------------------------------|
-| Traditional IT    | Everything                                       | On-prem servers, networking     |
+| Traditional IT    | Everything                                       | On-prem servers, Networking     |
 | IaaS              | OS, middleware, apps, runtime                    | EC2, S3                         |
 | PaaS              | Applications and data                            | Elastic Beanstalk, RDS          |
 | SaaS              | Only data input and config                       | Gmail, Office 365               |
@@ -90,38 +93,18 @@ Think of these models as different levels of management responsibility between y
 ---
 
 ## 🌐 Cloud Deployment Models
+---
 
-### Public Cloud
-| Feature           | Description |
-|-------------------|-------------|
-| **Provider**      | Third-party cloud provider (e.g., AWS, Azure, GCP) |
-| **Deployment**    | Resources shared among multiple organizations |
-| **Pros**          | Cost-effective, scalable, quick provisioning |
-| **Cons**          | Less control, shared resources |
+### 🌐 Cloud Deployment Models Comparison
 
-### Private Cloud
-| Feature           | Description |
-|-------------------|-------------|
-| **Provider**      | Managed by a single organization |
-| **Deployment**    | Dedicated infrastructure (on-prem or hosted) |
-| **Pros**          | High control, greater security |
-| **Cons**          | Higher cost, limited scalability |
+| **Feature**       | **Public Cloud**                           | **Private Cloud**                              | **Hybrid Cloud**                               | **Multi-Cloud**                                 |
+|-------------------|--------------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------------|
+| **Provider**      | Third-party cloud provider (e.g., AWS, Azure, GCP) | Managed by a single organization              | Mix of public and private clouds               | Uses services from multiple cloud vendors (e.g., AWS + GCP) |
+| **Deployment**    | Resources shared among multiple organizations | Dedicated infrastructure (on-prem or hosted)  | Flexible, can switch between public and private | No single vendor lock-in                        |
+| **Pros**          | Cost-effective, scalable, quick provisioning | High control, greater security                 | Flexibility, best of both worlds               | Reduces risk, avoids vendor lock-in             |
+| **Cons**          | Less control, shared resources             | Higher cost, limited scalability               | Complex management                             | Complex integration, management challenges      |
 
-### Hybrid Cloud
-| Feature           | Description |
-|-------------------|-------------|
-| **Provider**      | Mix of public and private clouds |
-| **Deployment**    | Flexible, can switch between public and private |
-| **Pros**          | Flexibility, best of both worlds |
-| **Cons**          | Complex management |
-
-### Multi-Cloud
-| Feature           | Description |
-|-------------------|-------------|
-| **Provider**      | Uses services from multiple cloud vendors (AWS + GCP) |
-| **Deployment**    | No single vendor lock-in |
-| **Pros**          | Reduces risk, avoids vendor lock-in |
-| **Cons**          | Complex integration, management challenges |
+---
 
 ---
 
