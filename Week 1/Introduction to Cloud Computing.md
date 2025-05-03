@@ -163,6 +163,57 @@ In the early 2000s, Amazon's retail infrastructure inspired the birth of AWS:
 3. Is it public, private, hybrid?
 4. List 3 benefits of its cloud nature.
 
+### 🧠 Quick Quiz
+1. Which cloud model provides the highest control?
+2. What AWS service is considered PaaS?
+3. Is Gmail IaaS, PaaS, or SaaS?
+
+### 🧠 Quick Quiz
+
+Test your knowledge with a few concept checks and real-world scenarios!
+
+#### 📘 Core Concepts
+
+1. **Which cloud model provides the highest level of control?**  
+   - A) IaaS  
+   - B) SaaS  
+   - C) PaaS  
+   - D) Traditional IT  
+   **Answer:** D) Traditional IT
+
+2. **What AWS service is an example of PaaS?**  
+   - A) EC2  
+   - B) RDS  
+   - C) S3  
+   - D) CloudFront  
+   **Answer:** B) RDS
+
+3. **Is Gmail IaaS, PaaS, or SaaS?**  
+   **Answer:** SaaS
+
+---
+
+#### 🧭 Real-World Scenarios
+
+4. **You want to deploy an application with zero infrastructure management. Which service model fits best?**  
+   - A) IaaS  
+   - B) PaaS  
+   - C) SaaS  
+   **Answer:** B) PaaS
+
+5. **You're a startup building a web app with a small team. Which deployment model is likely your best fit?**  
+   - A) Private Cloud  
+   - B) Hybrid Cloud  
+   - C) Public Cloud  
+   **Answer:** C) Public Cloud
+
+6. **Your company needs to avoid vendor lock-in and use services from AWS and GCP. Which model are you using?**  
+   - A) Hybrid Cloud  
+   - B) Private Cloud  
+   - C) Multi-Cloud  
+   **Answer:** C) Multi-Cloud
+
+
 ✅ Share your response in this repo's Issues section!
 
 ---
