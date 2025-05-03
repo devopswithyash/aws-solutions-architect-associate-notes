@@ -116,6 +116,7 @@ Think of these models as different levels of management responsibility between y
 | **Disaster Recovery** | Requires manual setup of backups and recovery systems | Automated backups, disaster recovery services provided by cloud                           |
 | **Threat Detection**  | In-house monitoring and intrusion detection systems   | Cloud providers offer integrated security features like DDoS protection, encryption, etc. |
 ---
+
 🏘️ Real-World Analogies & Use Cases
 Understanding cloud deployment models is easier with real-world parallels:
 
@@ -130,29 +131,6 @@ Understanding cloud deployment models is easier with real-world parallels:
 | **Economic**      | Pay-as-you-go model, cost efficiency, scale with demand |
 | **Technical**     | Global reach, rapid provisioning, access to advanced tools |
 | **Operational**   | Automation, high availability, built-in security features |
-
----
-
-## 📜 A Brief History of AWS
-
-### The Origin Story
-In the early 2000s, Amazon's retail infrastructure inspired the birth of AWS:
-
-| Year    | Milestone                           |
-|---------|-------------------------------------|
-| 2002    | Internal AWS tools created         |
-| 2003    | Vision for external services formed|
-| 2004    | SQS (Simple Queue Service) launched |
-| 2006    | Public launch with S3 and EC2      |
-| 2010    | Amazon.com moved to AWS            |
-| 2012    | First re:Invent conference         |
-| 2018    | Graviton processors announced      |
-| 2023    | $80B+ annual revenue               |
-
-### AWS Market Position
-- Powers millions of businesses
-- ~32% cloud market share
-- Part of the Fortune 100 (if spun off)
 
 ---
 
@@ -178,17 +156,6 @@ Test your knowledge with a few concept checks and real-world scenarios!
 <details>
 <summary>Answer</summary>
 D) Traditional IT
-</details>
-
-2. **What AWS service is an example of PaaS?**
-   - A) EC2  
-   - B) RDS  
-   - C) S3  
-   - D) CloudFront  
-
-<details>
-<summary>Answer</summary>
-B) RDS
 </details>
 
 3. **Is Gmail IaaS, PaaS, or SaaS?**
@@ -231,16 +198,6 @@ C) IaaS offers infrastructure and PaaS offers tools for developing and deploying
 B) Private Cloud
 </details>
 
-7. **Which AWS service is an example of IaaS?**
-   - A) Elastic Beanstalk  
-   - B) EC2  
-   - C) Lambda  
-   - D) RDS  
-
-<details>
-<summary>Answer</summary>
-B) EC2
-</details>
 
 8. **Your company needs to maintain control over its data while using scalable cloud infrastructure. Which cloud model best meets this need?**
    - A) Public Cloud  
@@ -277,7 +234,7 @@ A) IaaS
 
 # 🧭 Real-World Scenarios
 
-11. **Your company needs to avoid vendor lock-in and use services from AWS and GCP. Which model are you using?**
+11. **Your company needs to avoid vendor lock-in and use services from cloud providers. Which model are you using?**
    - A) Hybrid Cloud  
    - B) Private Cloud  
    - C) Multi-Cloud  
@@ -298,16 +255,6 @@ C) Multi-Cloud
 A) PaaS
 </details>
 
-13. **In the context of cloud computing, what does 'elasticity' refer to?**
-   - A) The ability to increase infrastructure costs on demand  
-   - B) The ability to scale resources up or down based on demand  
-   - C) The need for a long-term contract to secure resources  
-   - D) A method to reduce costs in the cloud  
-
-<details>
-<summary>Answer</summary>
-B) The ability to scale resources up or down based on demand
-</details>
 
 14. **What is a benefit of resource pooling in cloud computing?**
    - A) It ensures that each customer gets dedicated resources.  
