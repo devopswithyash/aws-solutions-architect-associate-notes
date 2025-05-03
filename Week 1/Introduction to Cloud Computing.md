@@ -46,14 +46,6 @@ Think of these models as different levels of management responsibility between y
 ![image](https://github.com/user-attachments/assets/651ac1b1-923e-4bd6-8b49-32d07f686c7e)
 
 
-### 🍕 The Pizza Analogy
-| Model             | What You Manage                                 | Example                         |
-|------------------|--------------------------------------------------|---------------------------------|
-| Traditional IT    | Everything                                       | On-prem servers, Networking     |
-| IaaS              | OS, middleware, apps, runtime                    | EC2, S3                         |
-| PaaS              | Applications and data                            | Elastic Beanstalk, RDS          |
-| SaaS              | Only data input and config                       | Gmail, Office 365               |
-
 ### 🍕 The Pizza Analogy: Understanding Cloud Service Models
 
 | **Model**         | **What You Manage**                                               | **Provider Manages**                                  | **Example**                          |
