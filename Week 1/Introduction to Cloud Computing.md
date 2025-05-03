@@ -154,6 +154,145 @@ In the early 2000s, Amazon's retail infrastructure inspired the birth of AWS:
 - Jeff Barr has written over 2,000 AWS blog posts.
 
 ---
+### 🧠 Quick Quiz
+
+Test your knowledge with a few concept checks and real-world scenarios!
+
+#### 📘 Core Concepts
+
+# 🧠 Quick Quiz
+
+<details>
+<summary>1. Which cloud model provides the highest level of control?</summary>
+- A) IaaS  
+- B) SaaS  
+- C) PaaS  
+- D) Traditional IT  
+**Answer:** D) Traditional IT
+</details>
+
+<details>
+<summary>2. What AWS service is an example of PaaS?</summary>
+- A) EC2  
+- B) RDS  
+- C) S3  
+- D) CloudFront  
+**Answer:** B) RDS
+</details>
+
+<details>
+<summary>3. Is Gmail IaaS, PaaS, or SaaS?</summary>
+**Answer:** SaaS
+</details>
+
+<details>
+<summary>4. Which of the following is a key characteristic of cloud computing?</summary>
+- A) Limited scalability  
+- B) Pay-as-you-go pricing  
+- C) Fixed hardware capacity  
+- D) On-site server management  
+**Answer:** B) Pay-as-you-go pricing
+</details>
+
+<details>
+<summary>5. What is the primary difference between IaaS and PaaS?</summary>
+- A) IaaS provides infrastructure management, while PaaS provides full application support.  
+- B) PaaS offers virtualized resources while IaaS only offers hardware.  
+- C) IaaS offers infrastructure and PaaS offers tools for developing and deploying applications.  
+- D) PaaS is on-premise, while IaaS is cloud-based.  
+**Answer:** C) IaaS offers infrastructure and PaaS offers tools for developing and deploying applications.
+</details>
+
+<details>
+<summary>6. Which service model is the most suitable for businesses with very specific needs for their infrastructure and security?</summary>
+- A) SaaS  
+- B) Private Cloud  
+- C) Public Cloud  
+- D) IaaS  
+**Answer:** B) Private Cloud
+</details>
+
+<details>
+<summary>7. Which AWS service is an example of IaaS?</summary>
+- A) Elastic Beanstalk  
+- B) EC2  
+- C) Lambda  
+- D) RDS  
+**Answer:** B) EC2
+</details>
+
+<details>
+<summary>8. Your company needs to maintain control over its data while using scalable cloud infrastructure. Which cloud model best meets this need?</summary>
+- A) Public Cloud  
+- B) Private Cloud  
+- C) Hybrid Cloud  
+- D) Multi-Cloud  
+**Answer:** C) Hybrid Cloud
+</details>
+
+<details>
+<summary>9. You want to use an app like Microsoft 365 and don't want to worry about maintenance or updates. What model does this app represent?</summary>
+- A) IaaS  
+- B) PaaS  
+- C) SaaS  
+- D) Traditional IT  
+**Answer:** C) SaaS
+</details>
+
+<details>
+<summary>10. You are deploying a custom web application and you need complete control over the underlying infrastructure but want to avoid managing hardware. Which model is the best fit?</summary>
+- A) IaaS  
+- B) SaaS  
+- C) PaaS  
+- D) Private Cloud  
+**Answer:** A) IaaS
+</details>
+
+# 🧭 Real-World Scenarios
+
+<details>
+<summary>11. Your company needs to avoid vendor lock-in and use services from AWS and GCP. Which model are you using?</summary>
+- A) Hybrid Cloud  
+- B) Private Cloud  
+- C) Multi-Cloud  
+**Answer:** C) Multi-Cloud
+</details>
+
+<details>
+<summary>12. Your company wants to quickly deploy applications without worrying about the underlying hardware or operating systems. Which model would you choose?</summary>
+- A) PaaS  
+- B) SaaS  
+- C) IaaS  
+- D) Traditional IT  
+**Answer:** A) PaaS
+</details>
+
+<details>
+<summary>13. In the context of cloud computing, what does 'elasticity' refer to?</summary>
+- A) The ability to increase infrastructure costs on demand  
+- B) The ability to scale resources up or down based on demand  
+- C) The need for a long-term contract to secure resources  
+- D) A method to reduce costs in the cloud  
+**Answer:** B) The ability to scale resources up or down based on demand
+</details>
+
+<details>
+<summary>14. What is a benefit of resource pooling in cloud computing?</summary>
+- A) It ensures that each customer gets dedicated resources.  
+- B) It allows multiple customers to share resources, increasing cost efficiency.  
+- C) It makes resources less flexible and harder to scale.  
+- D) It isolates resources to individual users.  
+**Answer:** B) It allows multiple customers to share resources, increasing cost efficiency.
+</details>
+
+<details>
+<summary>15. Which cloud deployment model allows businesses to switch between public and private cloud resources depending on their needs?</summary>
+- A) Private Cloud  
+- B) Hybrid Cloud  
+- C) Multi-Cloud  
+- D) Public Cloud  
+**Answer:** B) Hybrid Cloud
+</details>
 
 ## 🛠️ Hands-on Exercise
 
@@ -162,58 +301,6 @@ In the early 2000s, Amazon's retail infrastructure inspired the birth of AWS:
 2. Is it IaaS, PaaS, or SaaS?
 3. Is it public, private, hybrid?
 4. List 3 benefits of its cloud nature.
-
-### 🧠 Quick Quiz
-1. Which cloud model provides the highest control?
-2. What AWS service is considered PaaS?
-3. Is Gmail IaaS, PaaS, or SaaS?
-
-### 🧠 Quick Quiz
-
-Test your knowledge with a few concept checks and real-world scenarios!
-
-#### 📘 Core Concepts
-
-1. **Which cloud model provides the highest level of control?**  
-   - A) IaaS  
-   - B) SaaS  
-   - C) PaaS  
-   - D) Traditional IT  
-   **Answer:** D) Traditional IT
-
-2. **What AWS service is an example of PaaS?**  
-   - A) EC2  
-   - B) RDS  
-   - C) S3  
-   - D) CloudFront  
-   **Answer:** B) RDS
-
-3. **Is Gmail IaaS, PaaS, or SaaS?**  
-   **Answer:** SaaS
-
----
-
-#### 🧭 Real-World Scenarios
-
-4. **You want to deploy an application with zero infrastructure management. Which service model fits best?**  
-   - A) IaaS  
-   - B) PaaS  
-   - C) SaaS  
-   **Answer:** B) PaaS
-
-5. **You're a startup building a web app with a small team. Which deployment model is likely your best fit?**  
-   - A) Private Cloud  
-   - B) Hybrid Cloud  
-   - C) Public Cloud  
-   **Answer:** C) Public Cloud
-
-6. **Your company needs to avoid vendor lock-in and use services from AWS and GCP. Which model are you using?**  
-   - A) Hybrid Cloud  
-   - B) Private Cloud  
-   - C) Multi-Cloud  
-   **Answer:** C) Multi-Cloud
-
-
 ✅ Share your response in this repo's Issues section!
 
 ---
