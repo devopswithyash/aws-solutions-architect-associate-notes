@@ -161,7 +161,6 @@ Test your knowledge with a few concept checks and real-world scenarios!
 #### 📘 Core Concepts
 
 # 🧠 Quick Quiz
-# 🧠 Quick Quiz
 
 1. **Which cloud model provides the highest level of control?**
    - A) IaaS  
@@ -171,6 +170,8 @@ Test your knowledge with a few concept checks and real-world scenarios!
 
 <details>
 <summary>Answer</summary>
+D) Traditional IT
+</details>
 
 2. **What AWS service is an example of PaaS?**
    - A) EC2  
