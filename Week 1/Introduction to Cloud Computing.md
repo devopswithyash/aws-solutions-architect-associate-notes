@@ -1,5 +1,6 @@
 <details>
 <summary>Table of Contents</summary>
+
 - [Cloud Computing Fundamentals](#cloud-computing-fundamentals)
   - [What is Cloud Computing?](#what-is-cloud-computing)
   - [Traditional IT Infrastructure vs. Cloud Computing](#traditional-it-infrastructure-vs-cloud-computing)
@@ -13,13 +14,18 @@
   - [Real-World Analogies & Use Cases](#real-world-analogies-use-cases)
   - [Benefits of Cloud Computing](#benefits-of-cloud-computing)
   - [Fun Cloud Facts](#fun-cloud-facts)
+
 - [Quick Quiz](#quick-quiz)
+
 - [Brainstorming Section](#brainstorming-section)
   - [Scenario 1: Choosing the Right Cloud Service Model](#scenario-1-choosing-the-right-cloud-service-model)
   - [Scenario 2: Public vs. Private Cloud Deployment](#scenario-2-public-vs-private-cloud-deployment)
   - [Scenario 3: Scaling and Cost Optimization](#scenario-3-scaling-and-cost-optimization)
+
 - [Additional Resources](#additional-resources)
+
 - [Coming Next](#coming-next)
+
 </details>
 
 
