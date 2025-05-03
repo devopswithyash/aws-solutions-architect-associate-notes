@@ -43,6 +43,8 @@ Cloud computing is defined by the following key characteristics:
 
 Think of these models as different levels of management responsibility between you and the cloud provider. I like to use the **pizza analogy**:
 
+![image](https://github.com/user-attachments/assets/651ac1b1-923e-4bd6-8b49-32d07f686c7e)
+
 ![image](https://github.com/user-attachments/assets/7f0c555e-b6f4-43a4-b62f-6fb8d53549f1)
 
 
