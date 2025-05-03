@@ -3,7 +3,7 @@
 
 - **[🌐 Cloud Computing Fundamentals](#cloud-computing-fundamentals)**  
   - **[💻 What is Cloud Computing?](#what-is-cloud-computing)**  
-  - **[🏢 Traditional IT Infrastructure vs. Cloud Computing](#traditional-it-infrastructure-vs-cloud-computing)**  
+  - **[🏢 Traditional IT Infrastructure vs. Cloud Computing](#Traditional IT Infrastructure vs. Cloud Computing)**  
   - **[🔑 Essential Characteristics of Cloud Computing](#essential-characteristics-of-cloud-computing)**  
   - **[📦 Cloud Service Models: IaaS, PaaS, SaaS](#cloud-service-models-iaas-paas-saas)**  
     - **[🍕 Infrastructure as a Service (IaaS)](#infrastructure-as-a-service-iaas)**  
