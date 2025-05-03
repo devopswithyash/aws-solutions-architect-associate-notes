@@ -10,25 +10,18 @@ Welcome to the beginning of our **AWS Solutions Architect Associate** journey! B
 ## 🤔 What is Cloud Computing?
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
-### Traditional IT Infrastructure (The "Old Way")
-| Aspect                 | Traditional IT Infrastructure                 |
-|------------------------|-----------------------------------------------|
-| Hardware               | Physical servers and equipment                |
-| Location               | On-premise data center                       |
-| Management Responsibility | IT staff for maintenance, security, and upgrades |
-| Capacity Planning      | Predict and purchase capacity years in advance |
-| Costs                  | High upfront costs for hardware               |
-| Maintenance            | Regular hardware and software updates         |
+---
 
-### Cloud Computing (The "New Way")
-| Aspect                 | Cloud Computing                              |
-|------------------------|-----------------------------------------------|
-| Hardware               | Virtualized resources on-demand              |
-| Location               | Accessed remotely through the internet       |
-| Management Responsibility | Managed by cloud providers (e.g., AWS, Azure) |
-| Capacity Planning      | Scale up/down dynamically based on demand     |
-| Costs                  | Pay-as-you-go model, OPEX over CAPEX          |
-| Maintenance            | Handled by cloud providers                   |
+### 📊 Traditional IT Infrastructure vs. Cloud Computing
+
+| **Traditional IT Infrastructure (The "Old Way")** | **Cloud Computing (The "New Way")** |
+|---------------------------------------------------|-------------------------------------|
+| **Hardware**: Physical servers and equipment     | **Hardware**: Virtualized resources on-demand |
+| **Location**: On-premise data center             | **Location**: Accessed remotely through the internet |
+| **Management Responsibility**: IT staff for maintenance, security, and upgrades | **Management Responsibility**: Managed by cloud provider |
+| **Capacity Planning**: Predict and purchase capacity years in advance | **Capacity Planning**: Scale up/down dynamically based on demand |
+| **Costs**: High upfront costs for hardware       | **Costs**: Pay-as-you-go, OPEX over CAPEX |
+| **Maintenance**: Regular hardware and software updates | **Maintenance**: Handled by cloud provider |
 
 ---
 
