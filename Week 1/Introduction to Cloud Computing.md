@@ -1,32 +1,27 @@
-# Table of Contents
+<details>
+<summary>Table of Contents</summary>
+- [Cloud Computing Fundamentals](#cloud-computing-fundamentals)
+  - [What is Cloud Computing?](#what-is-cloud-computing)
+  - [Traditional IT Infrastructure vs. Cloud Computing](#traditional-it-infrastructure-vs-cloud-computing)
+  - [Essential Characteristics of Cloud Computing](#essential-characteristics-of-cloud-computing)
+  - [Cloud Service Models: IaaS, PaaS, SaaS](#cloud-service-models-iaas-paas-saas)
+  - [Infrastructure as a Service (IaaS)](#infrastructure-as-a-service-iaas)
+  - [Platform as a Service (PaaS)](#platform-as-a-service-paas)
+  - [Software as a Service (SaaS)](#software-as-a-service-saas)
+  - [Cloud Deployment Models](#cloud-deployment-models)
+  - [Cloud Security Comparison](#cloud-security-comparison)
+  - [Real-World Analogies & Use Cases](#real-world-analogies-use-cases)
+  - [Benefits of Cloud Computing](#benefits-of-cloud-computing)
+  - [Fun Cloud Facts](#fun-cloud-facts)
+- [Quick Quiz](#quick-quiz)
+- [Brainstorming Section](#brainstorming-section)
+  - [Scenario 1: Choosing the Right Cloud Service Model](#scenario-1-choosing-the-right-cloud-service-model)
+  - [Scenario 2: Public vs. Private Cloud Deployment](#scenario-2-public-vs-private-cloud-deployment)
+  - [Scenario 3: Scaling and Cost Optimization](#scenario-3-scaling-and-cost-optimization)
+- [Additional Resources](#additional-resources)
+- [Coming Next](#coming-next)
+</details>
 
-1. [Cloud Computing Fundamentals](#cloud-computing-fundamentals)
-   - [What is Cloud Computing?](#what-is-cloud-computing)
-   - [Traditional IT Infrastructure vs. Cloud Computing](#traditional-it-infrastructure-vs-cloud-computing)
-   - [Essential Characteristics of Cloud Computing](#essential-characteristics-of-cloud-computing)
-   - [Cloud Service Models: IaaS, PaaS, SaaS](#cloud-service-models-iaas-paas-saas)
-     - [The Pizza Analogy: Understanding Cloud Service Models](#the-pizza-analogy-understanding-cloud-service-models)
-   - [Infrastructure as a Service (IaaS)](#infrastructure-as-a-service-iaas)
-   - [Platform as a Service (PaaS)](#platform-as-a-service-paas)
-   - [Software as a Service (SaaS)](#software-as-a-service-saas)
-   - [Cloud Deployment Models](#cloud-deployment-models)
-   - [Cloud Security Comparison](#cloud-security-comparison)
-   - [Real-World Analogies & Use Cases](#real-world-analogies--use-cases)
-   - [Benefits of Cloud Computing](#benefits-of-cloud-computing)
-   - [Fun Cloud Facts](#fun-cloud-facts)
-   
-2. [Quick Quiz](#quick-quiz)
-   - [Core Concepts](#core-concepts)
-   - [Real-World Scenarios](#real-world-scenarios)
-
-3. [Brainstorming Section](#brainstorming-section)
-   - [Scenario 1: Choosing the Right Cloud Service Model](#scenario-1-choosing-the-right-cloud-service-model)
-   - [Scenario 2: Public vs. Private Cloud Deployment](#scenario-2-public-vs-private-cloud-deployment)
-   - [Scenario 3: Scaling and Cost Optimization](#scenario-3-scaling-and-cost-optimization)
-
-4. [Additional Resources](#additional-resources)
-
-5. [Coming Next](#coming-next)
 
 ## Cloud Computing Fundamentals  
 **The Foundation of Modern Infrastructure**  
