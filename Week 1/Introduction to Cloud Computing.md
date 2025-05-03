@@ -171,8 +171,6 @@ Test your knowledge with a few concept checks and real-world scenarios!
 
 <details>
 <summary>Answer</summary>
-**Answer:** D) Traditional IT
-</details>
 
 2. **What AWS service is an example of PaaS?**
    - A) EC2  
