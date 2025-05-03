@@ -45,8 +45,6 @@ Think of these models as different levels of management responsibility between y
 
 ![image](https://github.com/user-attachments/assets/651ac1b1-923e-4bd6-8b49-32d07f686c7e)
 
-![image](https://github.com/user-attachments/assets/7f0c555e-b6f4-43a4-b62f-6fb8d53549f1)
-
 
 ### 🍕 The Pizza Analogy
 | Model             | What You Manage                                 | Example                         |
@@ -55,6 +53,15 @@ Think of these models as different levels of management responsibility between y
 | IaaS              | OS, middleware, apps, runtime                    | EC2, S3                         |
 | PaaS              | Applications and data                            | Elastic Beanstalk, RDS          |
 | SaaS              | Only data input and config                       | Gmail, Office 365               |
+
+### 🍕 The Pizza Analogy: Understanding Cloud Service Models
+
+| **Model**         | **What You Manage**                                               | **Provider Manages**                                  | **Example**                          |
+|-------------------|-------------------------------------------------------------------|------------------------------------------------------|--------------------------------------|
+| **Traditional IT** | Everything – from hardware to applications and networking.         | N/A (You manage everything)                          | On-premise servers, networking      |
+| **IaaS**           | OS, middleware, apps, runtime environments, data storage, and security configurations. | Virtualized hardware (e.g., servers, storage, networking). | EC2, S3, VPC, EBS                   |
+| **PaaS**           | Applications, data, and configurations for deployment and scaling. | OS, middleware, runtime, database management, networking. | Elastic Beanstalk, RDS, Amplify      |
+| **SaaS**           | Only your data input and user configurations (e.g., preferences, settings). | Everything else: Infrastructure, platform, app maintenance. | Gmail, Office 365, Slack            |
 
 ---
 
