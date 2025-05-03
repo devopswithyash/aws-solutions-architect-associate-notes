@@ -14,16 +14,17 @@ Cloud computing is the delivery of computing services—including servers, stora
 
 ### 📊 Traditional IT Infrastructure vs. Cloud Computing
 
-| **Traditional IT Infrastructure (The "Old Way")** | **Cloud Computing (The "New Way")** |
-|---------------------------------------------------|-------------------------------------|
-| **Hardware**: Physical servers and equipment     | **Hardware**: Virtualized resources on-demand |
-| **Location**: On-premise data center             | **Location**: Accessed remotely through the internet |
-| **Management Responsibility**: IT staff for maintenance, security, and upgrades | **Management Responsibility**: Managed by cloud provider |
-| **Capacity Planning**: Predict and purchase capacity years in advance | **Capacity Planning**: Scale up/down dynamically based on demand |
-| **Costs**: High upfront costs for hardware       | **Costs**: Pay-as-you-go, OPEX over CAPEX |
-| **Maintenance**: Regular hardware and software updates | **Maintenance**: Handled by cloud provider |
+| **Aspect**                             | **Traditional IT Infrastructure (The "Old Way")** | **Cloud Computing (The "New Way")** |
+|----------------------------------------|---------------------------------------------------|-------------------------------------|
+| **Hardware**                           | Physical servers and equipment                    | Virtualized resources on-demand    |
+| **Location**                           | On-premise data center                            | Accessed remotely through the internet |
+| **Management Responsibility**          | IT staff for maintenance, security, and upgrades  | Managed by cloud provider          |
+| **Capacity Planning**                  | Predict and purchase capacity years in advance    | Scale up/down dynamically based on demand |
+| **Costs**                              | High upfront costs for hardware                   | Pay-as-you-go, OPEX over CAPEX      |
+| **Maintenance**                        | Regular hardware and software updates             | Handled by cloud provider          |
 
 ---
+
 
 ## 💡 Essential Characteristics of Cloud Computing
 Cloud computing is defined by the following key characteristics:
