@@ -124,9 +124,6 @@ Think of these models as different levels of management responsibility between y
 
 ---
 
-## 🌐 Cloud Deployment Models
----
-
 ### 🌐 Cloud Deployment Models Comparison
 
 | **Feature**       | **Public Cloud**                           | **Private Cloud**                              | **Hybrid Cloud**                               | **Multi-Cloud**                                 |
@@ -135,6 +132,13 @@ Think of these models as different levels of management responsibility between y
 | **Deployment**    | Resources shared among multiple organizations | Dedicated infrastructure (on-prem or hosted)  | Flexible, can switch between public and private | No single vendor lock-in                        |
 | **Pros**          | Cost-effective, scalable, quick provisioning | High control, greater security                 | Flexibility, best of both worlds               | Reduces risk, avoids vendor lock-in             |
 | **Cons**          | Less control, shared resources             | Higher cost, limited scalability               | Complex management                             | Complex integration, management challenges      |
+
+---
+
+🏘️ Real-World Analogies & Use Cases
+Understanding cloud deployment models is easier with real-world parallels:
+
+<details> <summary>🌐 <strong>Public Cloud</strong></summary> <ul> <li><strong>Analogy:</strong> Like renting an apartment in a high-rise — you share the building (infrastructure) with others, but your unit (environment) is yours.</li> <li><strong>Use Case:</strong> Ideal for startups and agile teams that need to scale quickly without heavy upfront costs.</li> </ul> </details> <details> <summary>🏡 <strong>Private Cloud</strong></summary> <ul> <li><strong>Analogy:</strong> Like owning your own house — full control, maximum privacy, and customized to your needs, but with higher maintenance and costs.</li> <li><strong>Use Case:</strong> Common in financial institutions or government organizations needing strict compliance and control.</li> </ul> </details> <details> <summary>🏢 <strong>Hybrid Cloud</strong></summary> <ul> <li><strong>Analogy:</strong> Like working both from a home office and a corporate office — you switch based on convenience, performance, or security.</li> <li><strong>Use Case:</strong> Enterprises that want to keep sensitive data in-house but leverage public cloud for scalability or innovation.</li> </ul> </details> <details> <summary>✈️ <strong>Multi-Cloud</strong></summary> <ul> <li><strong>Analogy:</strong> Like booking flights with different airlines depending on route, cost, or experience — you’re not locked into one option.</li> <li><strong>Use Case:</strong> Large enterprises that want to reduce risk, avoid vendor lock-in, or take advantage of unique offerings from multiple providers.</li> </ul> </details>
 
 ---
 ### 🛡️ Cloud Security Comparison
@@ -147,14 +151,6 @@ Think of these models as different levels of management responsibility between y
 | **Disaster Recovery** | Requires manual setup of backups and recovery systems | Automated backups, disaster recovery services provided by cloud                           |
 | **Threat Detection**  | In-house monitoring and intrusion detection systems   | Cloud providers offer integrated security features like DDoS protection, encryption, etc. |
 ---
-
-🏘️ Real-World Analogies & Use Cases
-Understanding cloud deployment models is easier with real-world parallels:
-
-<details> <summary>🌐 <strong>Public Cloud</strong></summary> <ul> <li><strong>Analogy:</strong> Like renting an apartment in a high-rise — you share the building (infrastructure) with others, but your unit (environment) is yours.</li> <li><strong>Use Case:</strong> Ideal for startups and agile teams that need to scale quickly without heavy upfront costs.</li> </ul> </details> <details> <summary>🏡 <strong>Private Cloud</strong></summary> <ul> <li><strong>Analogy:</strong> Like owning your own house — full control, maximum privacy, and customized to your needs, but with higher maintenance and costs.</li> <li><strong>Use Case:</strong> Common in financial institutions or government organizations needing strict compliance and control.</li> </ul> </details> <details> <summary>🏢 <strong>Hybrid Cloud</strong></summary> <ul> <li><strong>Analogy:</strong> Like working both from a home office and a corporate office — you switch based on convenience, performance, or security.</li> <li><strong>Use Case:</strong> Enterprises that want to keep sensitive data in-house but leverage public cloud for scalability or innovation.</li> </ul> </details> <details> <summary>✈️ <strong>Multi-Cloud</strong></summary> <ul> <li><strong>Analogy:</strong> Like booking flights with different airlines depending on route, cost, or experience — you’re not locked into one option.</li> <li><strong>Use Case:</strong> Large enterprises that want to reduce risk, avoid vendor lock-in, or take advantage of unique offerings from multiple providers.</li> </ul> </details>
-
----
-
 ## 🚀 Benefits of Cloud Computing
 
 | Benefit Type      | Description |
