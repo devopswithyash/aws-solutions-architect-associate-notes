@@ -1,45 +1,25 @@
-<details> <summary>Table of Contents</summary>
-Cloud Computing Fundamentals
+# Table of Contents
 
-What is Cloud Computing?
-
-Traditional IT Infrastructure vs. Cloud Computing
-
-Essential Characteristics of Cloud Computing
-
-Cloud Service Models: IaaS, PaaS, SaaS
-
-Infrastructure as a Service (IaaS)
-
-Platform as a Service (PaaS)
-
-Software as a Service (SaaS)
-
-Cloud Deployment Models
-
-Cloud Security Comparison
-
-Real-World Analogies & Use Cases
-
-Benefits of Cloud Computing
-
-Fun Cloud Facts
-
-Quick Quiz
-
-Brainstorming Section
-
-Scenario 1: Choosing the Right Cloud Service Model
-
-Scenario 2: Public vs. Private Cloud Deployment
-
-Scenario 3: Scaling and Cost Optimization
-
-Additional Resources
-
-Coming Next
-
-</details>
+- [Cloud Computing Fundamentals](#cloud-computing-fundamentals)
+  - [What is Cloud Computing?](#what-is-cloud-computing)
+  - [Traditional IT Infrastructure vs. Cloud Computing](#traditional-it-infrastructure-vs-cloud-computing)
+  - [Essential Characteristics of Cloud Computing](#essential-characteristics-of-cloud-computing)
+  - [Cloud Service Models: IaaS, PaaS, SaaS](#cloud-service-models-iaas-paas-saas)
+    - [Infrastructure as a Service (IaaS)](#infrastructure-as-a-service-iaas)
+    - [Platform as a Service (PaaS)](#platform-as-a-service-paas)
+    - [Software as a Service (SaaS)](#software-as-a-service-saas)
+  - [Cloud Deployment Models](#cloud-deployment-models)
+  - [Cloud Security Comparison](#cloud-security-comparison)
+  - [Real-World Analogies & Use Cases](#real-world-analogies-use-cases)
+  - [Benefits of Cloud Computing](#benefits-of-cloud-computing)
+  - [Fun Cloud Facts](#fun-cloud-facts)
+- [Quick Quiz](#quick-quiz)
+- [Brainstorming Section](#brainstorming-section)
+  - [Scenario 1: Choosing the Right Cloud Service Model](#scenario-1-choosing-the-right-cloud-service-model)
+  - [Scenario 2: Public vs. Private Cloud Deployment](#scenario-2-public-vs-private-cloud-deployment)
+  - [Scenario 3: Scaling and Cost Optimization](#scenario-3-scaling-and-cost-optimization)
+- [Additional Resources](#additional-resources)
+- [Coming Next](#coming-next)
 
 
 ## Cloud Computing Fundamentals  
