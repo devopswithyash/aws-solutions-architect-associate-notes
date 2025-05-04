@@ -38,7 +38,7 @@ Welcome to the beginning of our **AWS Solutions Architect Associate** journey! B
 
 ---
 
-## What is Cloud Computing? 🤔
+##What is Cloud Computing? 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
 ---
