@@ -164,9 +164,13 @@ Understanding cloud deployment models is easier with real-world parallels:
 
 ## Fun Cloud Facts 🎮 
 - "Cloud computing" term dates back to 1990s.
+- Cloud computing is taking the world by storm. In fact, 94% of workloads and compute instances will be processed through cloud data centers by 2021, compared to only 6% by traditional data centers, according to research by Cisco.
 - SQS was AWS's first public service.
 - AWS stores enough data to reach the moon in paper!
 - Jeff Barr has written over 2,000 AWS blog posts.
+- 
+
+
 
 ---
 
@@ -176,7 +180,6 @@ Test your knowledge with a few concept checks and real-world scenarios!
 
 ### ❓ Cloud Computing Quiz
 
-### ❓ Cloud Computing Quiz
 
 1. **Which cloud model provides the highest level of control?**  
    - A) IaaS  
@@ -365,144 +368,6 @@ It lets you balance security and performance by using both environments.
 
 </details>
 
-
-### Quick Quiz 🧠
-
-Test your knowledge with a few concept checks and real-world scenarios!
-
-#### Core Concepts 📘
-
-1. **Which cloud model provides the highest level of control?**
-   - A) IaaS  
-   - B) SaaS  
-   - C) PaaS  
-   - D) Traditional IT  
-
-<details>
-<summary>Answer</summary>
-D) Traditional IT
-</details>
-
-3. **Is Gmail IaaS, PaaS, or SaaS?**
-
-<details>
-<summary>Answer</summary>
-SaaS
-</details>
-
-4. **Which of the following is a key characteristic of cloud computing?**
-   - A) Limited scalability  
-   - B) Pay-as-you-go pricing  
-   - C) Fixed hardware capacity  
-   - D) On-site server management  
-
-<details>
-<summary>Answer</summary>
-B) Pay-as-you-go pricing
-</details>
-
-5. **What is the primary difference between IaaS and PaaS?**
-   - A) IaaS provides infrastructure management, while PaaS provides full application support.  
-   - B) PaaS offers virtualized resources while IaaS only offers hardware.  
-   - C) IaaS offers infrastructure and PaaS offers tools for developing and deploying applications.  
-   - D) PaaS is on-premise, while IaaS is cloud-based.  
-
-<details>
-<summary>Answer</summary>
-C) IaaS offers infrastructure and PaaS offers tools for developing and deploying applications.
-</details>
-
-6. **Which service model is the most suitable for businesses with very specific needs for their infrastructure and security?**
-   - A) SaaS  
-   - B) Private Cloud  
-   - C) Public Cloud  
-   - D) IaaS  
-
-<details>
-<summary>Answer</summary>
-B) Private Cloud
-</details>
-
-
-8. **Your company needs to maintain control over its data while using scalable cloud infrastructure. Which cloud model best meets this need?**
-   - A) Public Cloud  
-   - B) Private Cloud  
-   - C) Hybrid Cloud  
-   - D) Multi-Cloud  
-
-<details>
-<summary>Answer</summary>
-C) Hybrid Cloud
-</details>
-
-9. **You want to use an app like Microsoft 365 and don't want to worry about maintenance or updates. What model does this app represent?**
-   - A) IaaS  
-   - B) PaaS  
-   - C) SaaS  
-   - D) Traditional IT  
-
-<details>
-<summary>Answer</summary>
-C) SaaS
-</details>
-
-10. **You are deploying a custom web application and you need complete control over the underlying infrastructure but want to avoid managing hardware. Which model is the best fit?**
-   - A) IaaS  
-   - B) SaaS  
-   - C) PaaS  
-   - D) Private Cloud  
-
-<details>
-<summary>Answer</summary>
-A) IaaS
-</details>
-
-# 🧭 Real-World Scenarios
-
-11. **Your company needs to avoid vendor lock-in and use services from cloud providers. Which model are you using?**
-   - A) Hybrid Cloud  
-   - B) Private Cloud  
-   - C) Multi-Cloud  
-
-<details>
-<summary>Answer</summary>
-C) Multi-Cloud
-</details>
-
-12. **Your company wants to quickly deploy applications without worrying about the underlying hardware or operating systems. Which model would you choose?**
-   - A) PaaS  
-   - B) SaaS  
-   - C) IaaS  
-   - D) Traditional IT  
-
-<details>
-<summary>Answer</summary>
-A) PaaS
-</details>
-
-
-14. **What is a benefit of resource pooling in cloud computing?**
-   - A) It ensures that each customer gets dedicated resources.  
-   - B) It allows multiple customers to share resources, increasing cost efficiency.  
-   - C) It makes resources less flexible and harder to scale.  
-   - D) It isolates resources to individual users.  
-
-<details>
-<summary>Answer</summary>
-B) It allows multiple customers to share resources, increasing cost efficiency.
-</details>
-
-15. **Which cloud deployment model allows businesses to switch between public and private cloud resources depending on their needs?**
-   - A) Private Cloud  
-   - B) Hybrid Cloud  
-   - C) Multi-Cloud  
-   - D) Public Cloud  
-
-<details>
-<summary>Answer</summary>
-B) Hybrid Cloud
-</details>
-
 ---
 ## 🧠 Brainstorming Section
 
@@ -553,6 +418,7 @@ Take some time to think through each scenario. Post your insights, solutions, or
 
 ---
 ## Additional Resources 📚
+- [Introduction to Cloud Computing](https://www.geeksforgeeks.org/cloud-computing-tutorial/)
 - [NIST Definition](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)  
 - [AWS Timeline](https://aws.amazon.com/timeline/)  
 - [Cloud vs Traditional IT](https://aws.amazon.com/cloud-computing/)  
