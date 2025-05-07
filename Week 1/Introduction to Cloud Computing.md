@@ -176,6 +176,8 @@ Test your knowledge with a few concept checks and real-world scenarios!
 
 ### ❓ Cloud Computing Quiz
 
+### ❓ Cloud Computing Quiz
+
 1. **Which cloud model provides the highest level of control?**  
    - A) IaaS  
    - B) SaaS  
@@ -189,13 +191,17 @@ Test your knowledge with a few concept checks and real-world scenarios!
 Because you manage everything — from hardware to apps — giving full control.
 
 </details>
+
 ---
 
 2. **Is Gmail IaaS, PaaS, or SaaS?**  
+
 <details>
 <summary>Answer</summary>
+
 **SaaS**  
-It's a fully managed application delivered over the internet — no setup or management needed.
+It’s a fully managed application delivered over the internet — no setup or management needed.
+
 </details>
 
 ---
@@ -205,10 +211,13 @@ It's a fully managed application delivered over the internet — no setup or man
    - B) Pay-as-you-go pricing  
    - C) Fixed hardware capacity  
    - D) On-site server management  
+
 <details>
 <summary>Answer</summary>
+
 **B) Pay-as-you-go pricing**  
 Cloud lets you pay only for what you use, helping optimize costs.
+
 </details>
 
 ---
@@ -218,10 +227,13 @@ Cloud lets you pay only for what you use, helping optimize costs.
    - B) PaaS offers virtualized resources while IaaS only offers hardware.  
    - C) IaaS offers infrastructure and PaaS offers tools for developing and deploying applications.  
    - D) PaaS is on-premise, while IaaS is cloud-based.  
+
 <details>
 <summary>Answer</summary>
+
 **C) IaaS offers infrastructure and PaaS offers tools for developing and deploying applications.**  
 IaaS gives control over compute/networking; PaaS adds app-building tools on top.
+
 </details>
 
 ---
@@ -231,10 +243,13 @@ IaaS gives control over compute/networking; PaaS adds app-building tools on top.
    - B) Private Cloud  
    - C) Public Cloud  
    - D) IaaS  
+
 <details>
 <summary>Answer</summary>
+
 **B) Private Cloud**  
 Ideal when customization, data privacy, or compliance is a priority.
+
 </details>
 
 ---
@@ -244,10 +259,13 @@ Ideal when customization, data privacy, or compliance is a priority.
    - B) Private Cloud  
    - C) Hybrid Cloud  
    - D) Multi-Cloud  
+
 <details>
 <summary>Answer</summary>
+
 **C) Hybrid Cloud**  
 Blends public and private clouds for flexibility and control over sensitive workloads.
+
 </details>
 
 ---
@@ -257,10 +275,13 @@ Blends public and private clouds for flexibility and control over sensitive work
    - B) PaaS  
    - C) SaaS  
    - D) Traditional IT  
+
 <details>
 <summary>Answer</summary>
+
 **C) SaaS**  
 You're just using the software; the provider handles everything else.
+
 </details>
 
 ---
@@ -270,10 +291,13 @@ You're just using the software; the provider handles everything else.
    - B) SaaS  
    - C) PaaS  
    - D) Private Cloud  
+
 <details>
 <summary>Answer</summary>
+
 **A) IaaS**  
 You get full control over virtualized resources, without the burden of physical hardware.
+
 </details>
 
 ---
@@ -284,10 +308,13 @@ You get full control over virtualized resources, without the burden of physical 
    - A) Hybrid Cloud  
    - B) Private Cloud  
    - C) Multi-Cloud  
+
 <details>
 <summary>Answer</summary>
+
 **C) Multi-Cloud**  
 You distribute services across multiple providers to increase flexibility and reduce risk.
+
 </details>
 
 ---
@@ -297,10 +324,13 @@ You distribute services across multiple providers to increase flexibility and re
    - B) SaaS  
    - C) IaaS  
    - D) Traditional IT  
+
 <details>
 <summary>Answer</summary>
+
 **A) PaaS**  
 It handles infrastructure behind the scenes, letting developers focus on code.
+
 </details>
 
 ---
@@ -310,10 +340,13 @@ It handles infrastructure behind the scenes, letting developers focus on code.
    - B) It allows multiple customers to share resources, increasing cost efficiency.  
    - C) It makes resources less flexible and harder to scale.  
    - D) It isolates resources to individual users.  
+
 <details>
 <summary>Answer</summary>
+
 **B) It allows multiple customers to share resources, increasing cost efficiency.**  
 Resource pooling boosts utilization and reduces idle capacity.
+
 </details>
 
 ---
@@ -323,10 +356,13 @@ Resource pooling boosts utilization and reduces idle capacity.
    - B) Hybrid Cloud  
    - C) Multi-Cloud  
    - D) Public Cloud  
+
 <details>
 <summary>Answer</summary>
+
 **B) Hybrid Cloud**  
 It lets you balance security and performance by using both environments.
+
 </details>
 
 
