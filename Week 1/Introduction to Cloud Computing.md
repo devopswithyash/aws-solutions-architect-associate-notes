@@ -174,6 +174,7 @@ Understanding cloud deployment models is easier with real-world parallels:
 
 Test your knowledge with a few concept checks and real-world scenarios!
 
+### ❓ Cloud Computing Quiz
 
 1. **Which cloud model provides the highest level of control?**  
    - A) IaaS  
