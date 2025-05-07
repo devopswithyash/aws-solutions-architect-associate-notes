@@ -169,24 +169,136 @@ Understanding cloud deployment models is easier with real-world parallels:
 - Jeff Barr has written over 2,000 AWS blog posts.
 
 ---
+❓ Cloud Computing Quiz
+Which cloud model provides the highest level of control?
+
+A) IaaS
+
+B) SaaS
+
+C) PaaS
+
+D) Traditional IT
+
+<details> <summary>Answer</summary> <strong>D) Traditional IT</strong> Because you manage everything — from hardware to apps — giving full control. </details>
+Is Gmail IaaS, PaaS, or SaaS?
+
+<details> <summary>Answer</summary> <strong>SaaS</strong> It's a fully managed application delivered over the internet — no setup or management needed. </details>
+Which of the following is a key characteristic of cloud computing?
+
+A) Limited scalability
+
+B) Pay-as-you-go pricing
+
+C) Fixed hardware capacity
+
+D) On-site server management
+
+<details> <summary>Answer</summary> <strong>B) Pay-as-you-go pricing</strong> Cloud lets you pay only for what you use, helping optimize costs. </details>
+What is the primary difference between IaaS and PaaS?
+
+A) IaaS provides infrastructure management, while PaaS provides full application support.
+
+B) PaaS offers virtualized resources while IaaS only offers hardware.
+
+C) IaaS offers infrastructure and PaaS offers tools for developing and deploying applications.
+
+D) PaaS is on-premise, while IaaS is cloud-based.
+
+<details> <summary>Answer</summary> <strong>C) IaaS offers infrastructure and PaaS offers tools for developing and deploying applications.</strong> IaaS gives control over compute/networking; PaaS adds app-building tools on top. </details>
+Which service model is the most suitable for businesses with very specific needs for their infrastructure and security?
+
+A) SaaS
+
+B) Private Cloud
+
+C) Public Cloud
+
+D) IaaS
+
+<details> <summary>Answer</summary> <strong>B) Private Cloud</strong> Ideal when customization, data privacy, or compliance is a priority. </details>
+Your company needs to maintain control over its data while using scalable cloud infrastructure. Which cloud model best meets this need?
+
+A) Public Cloud
+
+B) Private Cloud
+
+C) Hybrid Cloud
+
+D) Multi-Cloud
+
+<details> <summary>Answer</summary> <strong>C) Hybrid Cloud</strong> Blends public and private clouds for flexibility and control over sensitive workloads. </details>
+You want to use an app like Microsoft 365 and don't want to worry about maintenance or updates. What model does this app represent?
+
+A) IaaS
+
+B) PaaS
+
+C) SaaS
+
+D) Traditional IT
+
+<details> <summary>Answer</summary> <strong>C) SaaS</strong> You're just using the software; the provider handles everything else. </details>
+You are deploying a custom web application and need complete control over the infrastructure but want to avoid managing hardware. Which model is the best fit?
+
+A) IaaS
+
+B) SaaS
+
+C) PaaS
+
+D) Private Cloud
+
+<details> <summary>Answer</summary> <strong>A) IaaS</strong> You get full control over virtualized resources, without the burden of physical hardware. </details>
+🧭 Real-World Scenarios
+Your company needs to avoid vendor lock-in and use services from cloud providers. Which model are you using?
+
+A) Hybrid Cloud
+
+B) Private Cloud
+
+C) Multi-Cloud
+
+<details> <summary>Answer</summary> <strong>C) Multi-Cloud</strong> You distribute services across multiple providers to increase flexibility and reduce risk. </details>
+Your company wants to quickly deploy applications without worrying about the underlying hardware or operating systems. Which model would you choose?
+
+A) PaaS
+
+B) SaaS
+
+C) IaaS
+
+D) Traditional IT
+
+<details> <summary>Answer</summary> <strong>A) PaaS</strong> It handles infrastructure behind the scenes, letting developers focus on code. </details>
+What is a benefit of resource pooling in cloud computing?
+
+A) It ensures that each customer gets dedicated resources.
+
+B) It allows multiple customers to share resources, increasing cost efficiency.
+
+C) It makes resources less flexible and harder to scale.
+
+D) It isolates resources to individual users.
+
+<details> <summary>Answer</summary> <strong>B) It allows multiple customers to share resources, increasing cost efficiency.</strong> Resource pooling boosts utilization and reduces idle capacity. </details>
+Which cloud deployment model allows businesses to switch between public and private cloud resources depending on their needs?
+
+A) Private Cloud
+
+B) Hybrid Cloud
+
+C) Multi-Cloud
+
+D) Public Cloud
+
+<details> <summary>Answer</summary> <strong>B) Hybrid Cloud</strong> It lets you balance security and performance by using both environments. </details>
+
 ### Quick Quiz 🧠
 
 Test your knowledge with a few concept checks and real-world scenarios!
 
 #### Core Concepts 📘
-
-<details>
-<summary><strong>1️⃣ What does IaaS stand for?</strong></summary>
-
-- [ ] Internet as a Service  
-- [x] Infrastructure as a Service  
-- [ ] Instance Allocation as a Service  
-- [ ] Internal Architecture as a Service  
-
-✅ **Correct Answer:** Infrastructure as a Service  
-📝 **Explanation:** IaaS provides virtualized computing resources over the internet.
-</details>
-
 
 1. **Which cloud model provides the highest level of control?**
    - A) IaaS  
