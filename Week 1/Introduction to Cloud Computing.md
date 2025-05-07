@@ -165,11 +165,9 @@ Understanding cloud deployment models is easier with real-world parallels:
 ## Fun Cloud Facts 🎮 
 - "Cloud computing" term dates back to 1990s.
 - Cloud computing is taking the world by storm. In fact, 94% of workloads and compute instances will be processed through cloud data centers by 2021, compared to only 6% by traditional data centers, according to research by Cisco.
-- SQS was AWS's first public service.
 - AWS stores enough data to reach the moon in paper!
-- Jeff Barr has written over 2,000 AWS blog posts.
-- 
-
+- Cloud computing is projected to reach a $1.6 trillion market by 2028.
+- The average company saves 20-30% in IT costs by shifting to the cloud.
 
 
 ---
