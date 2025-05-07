@@ -181,12 +181,14 @@ Test your knowledge with a few concept checks and real-world scenarios!
    - B) SaaS  
    - C) PaaS  
    - D) Traditional IT  
+
 <details>
 <summary>Answer</summary>
+
 **D) Traditional IT**  
 Because you manage everything — from hardware to apps — giving full control.
-</details>
 
+</details>
 ---
 
 2. **Is Gmail IaaS, PaaS, or SaaS?**  
