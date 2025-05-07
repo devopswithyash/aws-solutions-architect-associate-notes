@@ -175,6 +175,19 @@ Test your knowledge with a few concept checks and real-world scenarios!
 
 #### Core Concepts 📘
 
+<details>
+<summary><strong>1️⃣ What does IaaS stand for?</strong></summary>
+
+- [ ] Internet as a Service  
+- [x] Infrastructure as a Service  
+- [ ] Instance Allocation as a Service  
+- [ ] Internal Architecture as a Service  
+
+✅ **Correct Answer:** Infrastructure as a Service  
+📝 **Explanation:** IaaS provides virtualized computing resources over the internet.
+</details>
+
+
 1. **Which cloud model provides the highest level of control?**
    - A) IaaS  
    - B) SaaS  
