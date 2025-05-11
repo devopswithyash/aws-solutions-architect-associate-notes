@@ -1,3 +1,6 @@
+</details>
+
+ <summary><strong>📚 Table of Contents</strong></summary>
 ## 📚 Table of Contents
 
 - [🌐 Cloud Computing Fundamentals](#cloud-computing-fundamentals)
@@ -25,6 +28,7 @@
 
 - [🔮 Coming Next](#coming-next)
   
+</details>
 
 ## Cloud Computing Fundamentals  
 **The Foundation of Modern Infrastructure**  
