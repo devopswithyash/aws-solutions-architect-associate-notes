@@ -1,3 +1,29 @@
+<details>
+<summary><strong>📚 Table of Contents</strong></summary>
+
+- 🌐 Cloud Computing Fundamentals  
+  - 💻 What is Cloud Computing?  
+  - 🏢 Traditional IT Infrastructure vs. Cloud Computing  
+  - 🔑 Essential Characteristics of Cloud Computing  
+  - 📦 Cloud Service Models: IaaS, PaaS, SaaS  
+    - 🍕 Infrastructure as a Service (IaaS)  
+    - 🛠️ Platform as a Service (PaaS)  
+    - 📡 Software as a Service (SaaS)  
+  - 🌍 Cloud Deployment Models  
+  - 🔐 Cloud Security Comparison  
+  - 💡 Real-World Analogies & Use Cases  
+  - 🚀 Benefits of Cloud Computing  
+  - 🎉 Fun Cloud Facts  
+
+- ❓ Quick Quiz  
+- 🧠 Brainstorming Section  
+- 📚 Additional Resources  
+- 🔮 Coming Next  
+
+</details>
+
+
+
 </details>
 
  <summary><strong>📚 Table of Contents</strong></summary>
