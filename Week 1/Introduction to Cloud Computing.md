@@ -378,7 +378,7 @@ In a world of instant AI answers, brainstorming is how you stay sharp:
 
 **Solve, Don’t Just Search:** AI gives answers, but you bring context and judgment.
 
-** Actively:** You’re not just reading — you’re thinking, deciding, growing.
+**Actively:** You’re not just reading — you’re thinking, deciding, growing.
 
 **Stand Out:** Anyone can prompt ChatGPT. Few can reason through complexity.
 
