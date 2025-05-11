@@ -17,7 +17,7 @@
 
 - **[❓ Quick Quiz](#quick-quiz-)**
 
-- **[🧠 Brainstorming Section](#brainstorming-section)**  
+- **[🧠 Brainstorming Section](#brainstorming-section-)**  
   - **[⚖️ Scenario 1: Choosing the Right Cloud Service Model](#scenario-1-choosing-the-right-cloud-service-model-)**  
   - **[🏦 Scenario 2: Public vs. Private Cloud Deployment](#scenario-2-public-vs-private-cloud-deployment-)**  
   - **[📊 Scenario 3: Scaling and Cost Optimization](#scenario-3-scaling-and-cost-optimization-)**
