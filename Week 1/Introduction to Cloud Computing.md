@@ -1,6 +1,7 @@
 </details>
 
  <summary><strong>📚 Table of Contents</strong></summary>
+ 
 ## 📚 Table of Contents
 
 - [🌐 Cloud Computing Fundamentals](#cloud-computing-fundamentals)
