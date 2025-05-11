@@ -439,7 +439,7 @@ Take some time to think through each scenario. Post your insights, solutions, or
 - [Introduction to Cloud Computing](https://www.geeksforgeeks.org/cloud-computing-tutorial/)
 - [NIST Definition](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)  
 - [AWS Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/)  
-- [Cloud vs Traditional IT]([https://aws.amazon.com/cloud-computing/](https://www.geeksforgeeks.org/difference-between-cloud-computing-and-traditional-computing/))  
+- [Cloud vs Traditional IT](https://aws.amazon.com/cloud-computing/](https://www.geeksforgeeks.org/difference-between-cloud-computing-and-traditional-computing/)
 - [Cloud Service Models Explained](https://www.geeksforgeeks.org/cloud-based-services/)
 
 ---
