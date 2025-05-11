@@ -384,6 +384,7 @@ In a world of instant AI answers, brainstorming is how you stay sharp:
 
 👉 That’s why this section exists — to help you apply your cloud skills like a real architect.
 
+---
 
 In this section, we’ll explore three real-world scenarios that will help you apply your cloud computing knowledge and clarify key concepts. Think critically, and feel free to share your thoughts in the **Issues** section!
 
