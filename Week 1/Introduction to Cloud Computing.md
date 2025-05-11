@@ -2,7 +2,7 @@
 <summary><strong>📚 Table of Contents</strong></summary>
 
 - 🌐 Cloud Computing Fundamentals  
-  - 💻 What is Cloud Computing?  
+  - [💻 What is Cloud Computing?](#what-is-cloud-computing-) 
   - 🏢 Traditional IT Infrastructure vs. Cloud Computing  
   - 🔑 Essential Characteristics of Cloud Computing  
   - 📦 Cloud Service Models: IaaS, PaaS, SaaS  
